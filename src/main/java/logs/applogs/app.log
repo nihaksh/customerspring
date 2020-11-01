@@ -1,0 +1,14 @@
+2020-10-31 14:08:09 DEBUG AnnotationConfigApplicationContext:596 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@7e774085
+2020-10-31 14:08:09 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2020-10-31 14:08:09 DEBUG ClassPathBeanDefinitionScanner:435 - Identified candidate component class: file [C:\Users\Administrator\Downloads\cgimmersive20-master\studentspringms\target\classes\org\cap\apps\studentms\dao\StudentDaoImpl.class]
+2020-10-31 14:08:09 DEBUG ClassPathBeanDefinitionScanner:435 - Identified candidate component class: file [C:\Users\Administrator\Downloads\cgimmersive20-master\studentspringms\target\classes\org\cap\apps\studentms\service\StudentServiceImpl.class]
+2020-10-31 14:08:09 DEBUG ClassPathBeanDefinitionScanner:435 - Identified candidate component class: file [C:\Users\Administrator\Downloads\cgimmersive20-master\studentspringms\target\classes\org\cap\apps\studentms\ui\ProjectUi.class]
+2020-10-31 14:08:09 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2020-10-31 14:08:09 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2020-10-31 14:08:09 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2020-10-31 14:08:09 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2020-10-31 14:08:10 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'javaConfiguration'
+2020-10-31 14:08:10 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'studentDaoImpl'
+2020-10-31 14:08:10 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'studentServiceImpl'
+2020-10-31 14:08:10 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'projectUi'
+2020-10-31 14:08:10 DEBUG AnnotationConfigApplicationContext:1006 - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@7e774085, started on Sat Oct 31 14:08:09 PDT 2020
